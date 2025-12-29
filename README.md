@@ -1,6 +1,9 @@
 # 💫 About Me:
 Experienced fourth-year engineering student with a strong track record of<br>collaborating on projects with startups and excelling in web development and<br>Machine learning. Regular participant and winner of hackathons such as MSME,<br>AAVISHKAR, Mumbai Hakcs and SMART INDIA HACKATHON. Actively involved in open-source<br>contributions and dedicated to mentoring fellow students, colleagues, and friends.
 
+# Portfolio:
+  https://vivek.technewity.com/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivk.here) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vivekpandey19?si=dfUwaftnjOpo1sio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vp983351@gmail.com) 
