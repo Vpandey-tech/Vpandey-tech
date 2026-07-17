@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced fourth-year engineering student with a strong track record of<br>collaborating on projects with startups and excelling in web development and<br>Machine learning. Regular participant and winner of hackathons such as MSME,<br>AAVISHKAR, Mumbai Hakcs and SMART INDIA HACKATHON. Actively involved in open-source<br>contributions and dedicated to mentoring fellow students, colleagues, and friends.
+Experienced Graduate with a strong track record of<br>collaborating on projects with startups and excelling in web development and<br>Machine learning. Regular participant and winner of hackathons such as MSME,<br>AAVISHKAR, Mumbai Hakcs and SMART INDIA HACKATHON. Actively involved in open-source<br>contributions and dedicated to mentoring fellow students, colleagues, and friends.
 
 # Portfolio:
   https://vivek.technewity.com/
